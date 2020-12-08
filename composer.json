@@ -1,0 +1,17 @@
+{
+    "name": "hp/sistemaescolar",
+    "description": "sistema",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marcochan19",
+            "email": "toniituz123@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^7.30",
+        "illuminate/events": "^7.30",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}

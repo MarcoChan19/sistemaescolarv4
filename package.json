@@ -1,0 +1,11 @@
+{
+  "name": "sistemaescolar",
+  "version": "1.0.0",
+  "description": "projecto",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}
